@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T08:48:58.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="g1Xh_NrJQWL_Ol6fZWse" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T08:54:12.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59" etag="vA8r2Id9WqbjJkDXG9Wz" version="14.7.3" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1271" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1800" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,19 +120,19 @@
         <mxCell id="LNF0x5uRXGlsWWgb_Sv3-30" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="670" y="310" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LNF0x5uRXGlsWWgb_Sv3-33" value="points around prediction &amp;gt; 700" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="LNF0x5uRXGlsWWgb_Sv3-33" value="points around prediction &amp;gt; &lt;font color=&quot;#3333ff&quot;&gt;700&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="406.25" y="387.5" width="107.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="LNF0x5uRXGlsWWgb_Sv3-34" value="total points from predictions &amp;gt; 5500" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="LNF0x5uRXGlsWWgb_Sv3-34" value="total points from predictions &amp;gt; &lt;font color=&quot;#ff3333&quot;&gt;5500&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="653.13" y="380" width="93.75" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="LNF0x5uRXGlsWWgb_Sv3-35" value="Randomly sample 700 of them" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="LNF0x5uRXGlsWWgb_Sv3-35" value="Randomly sample &lt;font color=&quot;#3333ff&quot;&gt;700&lt;/font&gt; of them" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="500" y="245" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LNF0x5uRXGlsWWgb_Sv3-36" value="Randomly sample 5500 of them" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="LNF0x5uRXGlsWWgb_Sv3-36" value="Randomly sample &lt;font color=&quot;#ff0000&quot;&gt;5500&lt;/font&gt; of them" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="740" y="245" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LNF0x5uRXGlsWWgb_Sv3-37" value="Randomly sample points from the remaining enviroment to reach 8000 points" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="LNF0x5uRXGlsWWgb_Sv3-37" value="Randomly sample points &lt;font color=&quot;#00cc00&quot;&gt;2500&lt;/font&gt; points from the remaining enviroment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="890" y="387.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LNF0x5uRXGlsWWgb_Sv3-38" value="Training" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=-90;" vertex="1" parent="1">
